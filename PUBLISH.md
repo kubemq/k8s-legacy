@@ -1,7 +1,7 @@
 # Publishing a legacy (v2 line) security release — k8s library
 
 This Go library belongs to the legacy KubeMQ v2 line: security and critical fixes only.
-End of life is 12 months after KubeMQ next v1.0.0 general availability (date to be announced).
+End of life is 12 months after KubeMQ next v1.0.0 general availability (18 September 2027).
 
 This repository publishes **one artifact: a semantic-version git tag**. There is no
 container image, no chart and no moving tag.
